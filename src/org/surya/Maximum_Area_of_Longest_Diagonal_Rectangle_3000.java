@@ -1,6 +1,6 @@
 package org.surya;
 
-public class Maximum_Area_of_Longest_Diagonal_Rectangle_100170 {
+public class Maximum_Area_of_Longest_Diagonal_Rectangle_3000 {
 	class Solution {
 	    public int areaOfMaxDiagonal(int[][] dimensions) {
 
